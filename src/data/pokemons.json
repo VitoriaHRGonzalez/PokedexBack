@@ -1,0 +1,2475 @@
+[
+    {
+      "id": 1,
+      "name": "Bulbasaur",
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "baseExperience": 64,
+      "height": 0.7,
+      "weight": 6.9,
+      "abilities": [
+        "Overgrow"
+      ],
+      "stats": {
+        "hp": 45,
+        "attack": 49,
+        "defense": 49,
+        "speed": 45,
+        "specialAttack": 65,
+        "specialDefense": 65
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/1.svg"
+    },
+    {
+      "id": 2,
+      "name": "Ivysaur",
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "baseExperience": 142,
+      "height": 1,
+      "weight": 13,
+      "abilities": [
+        "Overgrow"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 62,
+        "defense": 63,
+        "speed": 60,
+        "specialAttack": 80,
+        "specialDefense": 80
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/2.svg"
+    },
+    {
+      "id": 3,
+      "name": "Venusaur",
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "baseExperience": 236,
+      "height": 2,
+      "weight": 100,
+      "abilities": [
+        "Overgrow"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 82,
+        "defense": 83,
+        "speed": 80,
+        "specialAttack": 100,
+        "specialDefense": 100
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/3.svg"
+    },
+    {
+      "id": 4,
+      "name": "Charmander",
+      "type": [
+        "Fire"
+      ],
+      "baseExperience": 62,
+      "height": 0.6,
+      "weight": 8.5,
+      "abilities": [
+        "Blaze"
+      ],
+      "stats": {
+        "hp": 39,
+        "attack": 52,
+        "defense": 43,
+        "speed": 65,
+        "specialAttack": 60,
+        "specialDefense": 50
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/4.svg"
+    },
+    {
+      "id": 5,
+      "name": "Charmeleon",
+      "type": [
+        "Fire"
+      ],
+      "baseExperience": 142,
+      "height": 1.1,
+      "weight": 19,
+      "abilities": [
+        "Blaze"
+      ],
+      "stats": {
+        "hp": 58,
+        "attack": 64,
+        "defense": 58,
+        "speed": 80,
+        "specialAttack": 80,
+        "specialDefense": 65
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/5.svg"
+    },
+    {
+      "id": 6,
+      "name": "Charizard",
+      "type": [
+        "Fire",
+        "Flying"
+      ],
+      "baseExperience": 240,
+      "height": 1.7,
+      "weight": 90.5,
+      "abilities": [
+        "Blaze"
+      ],
+      "stats": {
+        "hp": 78,
+        "attack": 84,
+        "defense": 78,
+        "speed": 100,
+        "specialAttack": 109,
+        "specialDefense": 85
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/6.svg"
+    },
+    {
+      "id": 7,
+      "name": "Squirtle",
+      "type": [
+        "Water"
+      ],
+      "baseExperience": 63,
+      "height": 0.5,
+      "weight": 9,
+      "abilities": [
+        "Torrent"
+      ],
+      "stats": {
+        "hp": 44,
+        "attack": 48,
+        "defense": 65,
+        "speed": 43,
+        "specialAttack": 50,
+        "specialDefense": 64
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/7.svg"
+    },
+    {
+      "id": 8,
+      "name": "Wartortle",
+      "type": [
+        "Water"
+      ],
+      "baseExperience": 142,
+      "height": 1,
+      "weight": 22.5,
+      "abilities": [
+        "Torrent"
+      ],
+      "stats": {
+        "hp": 59,
+        "attack": 63,
+        "defense": 80,
+        "speed": 58,
+        "specialAttack": 65,
+        "specialDefense": 80
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/8.svg"
+    },
+    {
+      "id": 9,
+      "name": "Blastoise",
+      "type": [
+        "Water"
+      ],
+      "baseExperience": 239,
+      "height": 1.6,
+      "weight": 85.5,
+      "abilities": [
+        "Torrent"
+      ],
+      "stats": {
+        "hp": 79,
+        "attack": 83,
+        "defense": 100,
+        "speed": 78,
+        "specialAttack": 85,
+        "specialDefense": 105
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/9.svg"
+    },
+    {
+      "id": 10,
+      "name": "Caterpie",
+      "type": [
+        "Bug"
+      ],
+      "baseExperience": 39,
+      "height": 0.3,
+      "weight": 2.9,
+      "abilities": [
+        "Shield Dust"
+      ],
+      "stats": {
+        "hp": 45,
+        "attack": 30,
+        "defense": 35,
+        "speed": 45,
+        "specialAttack": 20,
+        "specialDefense": 20
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/10.svg"
+    },
+    {
+      "id": 11,
+      "name": "Metapod",
+      "type": [
+        "Bug"
+      ],
+      "baseExperience": 72,
+      "height": 0.7,
+      "weight": 9.9,
+      "abilities": [
+        "Shed Skin"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 20,
+        "defense": 55,
+        "speed": 30,
+        "specialAttack": 25,
+        "specialDefense": 25
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/11.svg"
+    },
+    {
+      "id": 12,
+      "name": "Butterfree",
+      "type": [
+        "Bug",
+        "Flying"
+      ],
+      "baseExperience": 178,
+      "height": 1.1,
+      "weight": 32,
+      "abilities": [
+        "Compound Eyes"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 45,
+        "defense": 50,
+        "speed": 70,
+        "specialAttack": 90,
+        "specialDefense": 80
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/12.svg"
+    },
+    {
+      "id": 13,
+      "name": "Weedle",
+      "type": [
+        "Bug",
+        "Poison"
+      ],
+      "baseExperience": 39,
+      "height": 0.3,
+      "weight": 3.2,
+      "abilities": [
+        "Shield Dust"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 35,
+        "defense": 30,
+        "speed": 50,
+        "specialAttack": 20,
+        "specialDefense": 20
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/13.svg"
+    },
+    {
+      "id": 14,
+      "name": "Kakuna",
+      "type": [
+        "Bug",
+        "Poison"
+      ],
+      "baseExperience": 72,
+      "height": 0.6,
+      "weight": 10,
+      "abilities": [
+        "Shed Skin"
+      ],
+      "stats": {
+        "hp": 45,
+        "attack": 25,
+        "defense": 50,
+        "speed": 35,
+        "specialAttack": 25,
+        "specialDefense": 25
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/14.svg"
+    },
+    {
+      "id": 15,
+      "name": "Beedrill",
+      "type": [
+        "Bug",
+        "Poison"
+      ],
+      "baseExperience": 178,
+      "height": 1,
+      "weight": 29.5,
+      "abilities": [
+        "Swarm"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 90,
+        "defense": 40,
+        "speed": 75,
+        "specialAttack": 45,
+        "specialDefense": 80
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/15.svg"
+    },
+    {
+      "id": 16,
+      "name": "Pidgey",
+      "type": [
+        "Normal",
+        "Flying"
+      ],
+      "baseExperience": 50,
+      "height": 0.3,
+      "weight": 1.8,
+      "abilities": [
+        "Keen Eye"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 40,
+        "speed": 56,
+        "specialAttack": 35,
+        "specialDefense": 35
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/16.svg"
+    },
+    {
+      "id": 17,
+      "name": "Pidgeotto",
+      "type": [
+        "Normal",
+        "Flying"
+      ],
+      "baseExperience": 122,
+      "height": 1.1,
+      "weight": 30,
+      "abilities": [
+        "Keen Eye"
+      ],
+      "stats": {
+        "hp": 63,
+        "attack": 60,
+        "defense": 55,
+        "speed": 71,
+        "specialAttack": 50,
+        "specialDefense": 50
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/17.svg"
+    },
+    {
+      "id": 18,
+      "name": "Pidgeot",
+      "type": [
+        "Normal",
+        "Flying"
+      ],
+      "baseExperience": 216,
+      "height": 1.5,
+      "weight": 39.5,
+      "abilities": [
+        "Keen Eye"
+      ],
+      "stats": {
+        "hp": 83,
+        "attack": 80,
+        "defense": 75,
+        "speed": 101,
+        "specialAttack": 70,
+        "specialDefense": 70
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/18.svg"
+    },
+    {
+      "id": 19,
+      "name": "Rattata",
+      "type": [
+        "Normal"
+      ],
+      "baseExperience": 51,
+      "height": 0.3,
+      "weight": 3.5,
+      "abilities": [
+        "Run Away",
+        "Guts"
+      ],
+      "stats": {
+        "hp": 30,
+        "attack": 56,
+        "defense": 35,
+        "speed": 72,
+        "specialAttack": 25,
+        "specialDefense": 35
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/19.svg"
+    },
+    {
+      "id": 20,
+      "name": "Raticate",
+      "type": [
+        "Normal"
+      ],
+      "baseExperience": 145,
+      "height": 0.7,
+      "weight": 18.5,
+      "abilities": [
+        "Run Away",
+        "Guts"
+      ],
+      "stats": {
+        "hp": 55,
+        "attack": 81,
+        "defense": 60,
+        "speed": 97,
+        "specialAttack": 50,
+        "specialDefense": 70
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/20.svg"
+    },
+    {
+      "id": 21,
+      "name": "Spearow",
+      "type": [
+        "Normal",
+        "Flying"
+      ],
+      "baseExperience": 52,
+      "height": 0.3,
+      "weight": 2,
+      "abilities": [
+        "Keen Eye"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 60,
+        "defense": 30,
+        "speed": 70,
+        "specialAttack": 31,
+        "specialDefense": 31
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/21.svg"
+    },
+    {
+      "id": 22,
+      "name": "Fearow",
+      "type": [
+        "Normal",
+        "Flying"
+      ],
+      "baseExperience": 155,
+      "height": 1.2,
+      "weight": 38,
+      "abilities": [
+        "Keen Eye"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 90,
+        "defense": 65,
+        "speed": 100,
+        "specialAttack": 61,
+        "specialDefense": 61
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/22.svg"
+    },
+    {
+      "id": 23,
+      "name": "Ekans",
+      "type": [
+        "Poison"
+      ],
+      "baseExperience": 58,
+      "height": 2,
+      "weight": 6.9,
+      "abilities": [
+        "Intimidate",
+        "Shed Skin"
+      ],
+      "stats": {
+        "hp": 35,
+        "attack": 60,
+        "defense": 44,
+        "speed": 55,
+        "specialAttack": 40,
+        "specialDefense": 54
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/23.svg"
+    },
+    {
+      "id": 24,
+      "name": "Arbok",
+      "type": [
+        "Poison"
+      ],
+      "baseExperience": 153,
+      "height": 3.5,
+      "weight": 65,
+      "abilities": [
+        "Intimidate",
+        "Shed Skin"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 85,
+        "defense": 69,
+        "speed": 80,
+        "specialAttack": 65,
+        "specialDefense": 79
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/24.svg"
+    },
+    {
+      "id": 25,
+      "name": "Pikachu",
+      "type": [
+        "Electric"
+      ],
+      "baseExperience": 112,
+      "height": 0.4,
+      "weight": 6,
+      "abilities": [
+        "Static"
+      ],
+      "stats": {
+        "hp": 35,
+        "attack": 55,
+        "defense": 40,
+        "speed": 90,
+        "specialAttack": 50,
+        "specialDefense": 50
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/25.svg"
+    },
+    {
+      "id": 26,
+      "name": "Raichu",
+      "type": [
+        "Electric"
+      ],
+      "baseExperience": 218,
+      "height": 0.8,
+      "weight": 30,
+      "abilities": [
+        "Static"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 90,
+        "defense": 55,
+        "speed": 110,
+        "specialAttack": 90,
+        "specialDefense": 80
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/26.svg"
+    },
+    {
+      "id": 27,
+      "name": "Sandshrew",
+      "type": [
+        "Ground"
+      ],
+      "baseExperience": 60,
+      "height": 0.6,
+      "weight": 12,
+      "abilities": [
+        "Sand Veil"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 75,
+        "defense": 85,
+        "speed": 40,
+        "specialAttack": 20,
+        "specialDefense": 30
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/27.svg"
+    },
+    {
+      "id": 28,
+      "name": "Sandslash",
+      "type": [
+        "Ground"
+      ],
+      "baseExperience": 158,
+      "height": 1,
+      "weight": 29.5,
+      "abilities": [
+        "Sand Veil"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 100,
+        "defense": 110,
+        "speed": 55,
+        "specialAttack": 45,
+        "specialDefense": 55
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/28.svg"
+    },
+    {
+      "id": 29,
+      "name": "Nidoran♀",
+      "type": [
+        "Poison"
+      ],
+      "baseExperience": 55,
+      "height": 0.4,
+      "weight": 7,
+      "abilities": [
+        "Poison Point"
+      ],
+      "stats": {
+        "hp": 55,
+        "attack": 47,
+        "defense": 52,
+        "speed": 41,
+        "specialAttack": 40,
+        "specialDefense": 42
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/29.svg"
+    },
+    {
+      "id": 30,
+      "name": "Nidorina",
+      "type": [
+        "Poison"
+      ],
+      "baseExperience": 128,
+      "height": 0.8,
+      "weight": 20,
+      "abilities": [
+        "Poison Point"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 62,
+        "defense": 67,
+        "speed": 56,
+        "specialAttack": 55,
+        "specialDefense": 55
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/30.svg"
+    },
+    {
+      "id": 31,
+      "name": "Nidoqueen",
+      "type": [
+        "Poison",
+        "Ground"
+      ],
+      "baseExperience": 227,
+      "height": 1.3,
+      "weight": 60,
+      "abilities": [
+        "Poison Point"
+      ],
+      "stats": {
+        "hp": 90,
+        "attack": 92,
+        "defense": 87,
+        "speed": 76,
+        "specialAttack": 75,
+        "specialDefense": 85
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/31.svg"
+    },
+    {
+      "id": 32,
+      "name": "Nidoran♂",
+      "type": [
+        "Poison"
+      ],
+      "baseExperience": 55,
+      "height": 0.5,
+      "weight": 9,
+      "abilities": [
+        "Poison Point"
+      ],
+      "stats": {
+        "hp": 46,
+        "attack": 57,
+        "defense": 40,
+        "speed": 50,
+        "specialAttack": 40,
+        "specialDefense": 40
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/32.svg"
+    },
+    {
+      "id": 33,
+      "name": "Nidorino",
+      "type": [
+        "Poison"
+      ],
+      "baseExperience": 128,
+      "height": 0.9,
+      "weight": 19.5,
+      "abilities": [
+        "Poison Point"
+      ],
+      "stats": {
+        "hp": 61,
+        "attack": 72,
+        "defense": 57,
+        "speed": 65,
+        "specialAttack": 55,
+        "specialDefense": 55
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/33.svg"
+    },
+    {
+      "id": 34,
+      "name": "Nidoking",
+      "type": [
+        "Poison",
+        "Ground"
+      ],
+      "baseExperience": 227,
+      "height": 1.4,
+      "weight": 62,
+      "abilities": [
+        "Poison Point"
+      ],
+      "stats": {
+        "hp": 81,
+        "attack": 102,
+        "defense": 77,
+        "speed": 85,
+        "specialAttack": 85,
+        "specialDefense": 75
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/34.svg"
+    },
+    {
+      "id": 35,
+      "name": "Clefairy",
+      "type": [
+        "Fairy"
+      ],
+      "baseExperience": 113,
+      "height": 0.6,
+      "weight": 7.5,
+      "abilities": [
+        "Cute Charm"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 45,
+        "defense": 48,
+        "speed": 35,
+        "specialAttack": 60,
+        "specialDefense": 65
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/35.svg"
+    },
+    {
+      "id": 36,
+      "name": "Clefable",
+      "type": [
+        "Fairy"
+      ],
+      "baseExperience": 217,
+      "height": 1.3,
+      "weight": 40,
+      "abilities": [
+        "Cute Charm"
+      ],
+      "stats": {
+        "hp": 95,
+        "attack": 70,
+        "defense": 73,
+        "speed": 60,
+        "specialAttack": 85,
+        "specialDefense": 90
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/36.svg"
+    },
+    {
+      "id": 37,
+      "name": "Vulpix",
+      "type": [
+        "Fire"
+      ],
+      "baseExperience": 60,
+      "height": 0.6,
+      "weight": 9.9,
+      "abilities": [
+        "Flash Fire"
+      ],
+      "stats": {
+        "hp": 38,
+        "attack": 41,
+        "defense": 40,
+        "speed": 65,
+        "specialAttack": 50,
+        "specialDefense": 65
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/37.svg"
+    },
+    {
+      "id": 38,
+      "name": "Ninetales",
+      "type": [
+        "Fire"
+      ],
+      "baseExperience": 177,
+      "height": 1.1,
+      "weight": 19.9,
+      "abilities": [
+        "Flash Fire"
+      ],
+      "stats": {
+        "hp": 73,
+        "attack": 76,
+        "defense": 75,
+        "speed": 100,
+        "specialAttack": 81,
+        "specialDefense": 100
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/38.svg"
+    },
+    {
+      "id": 39,
+      "name": "Jigglypuff",
+      "type": [
+        "Normal",
+        "Fairy"
+      ],
+      "baseExperience": 95,
+      "height": 0.5,
+      "weight": 5.5,
+      "abilities": [
+        "Cute Charm"
+      ],
+      "stats": {
+        "hp": 115,
+        "attack": 45,
+        "defense": 20,
+        "speed": 20,
+        "specialAttack": 45,
+        "specialDefense": 25
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/39.svg"
+    },
+    {
+      "id": 40,
+      "name": "Wigglytuff",
+      "type": [
+        "Normal",
+        "Fairy"
+      ],
+      "baseExperience": 196,
+      "height": 1,
+      "weight": 12,
+      "abilities": [
+        "Cute Charm"
+      ],
+      "stats": {
+        "hp": 140,
+        "attack": 70,
+        "defense": 45,
+        "specialAttack": 80,
+        "specialDefense": 65
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/40.svg"
+    },
+    {
+      "id": 41,
+      "name": "Zubat",
+      "type": [
+        "Poison",
+        "Flying"
+      ],
+      "baseExperience": 49,
+      "height": 0.8,
+      "weight": 7.5,
+      "abilities": [
+        "Inner Focus"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 35,
+        "speed": 55,
+        "specialAttack": 50,
+        "specialDefense": 40
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/41.svg"
+    },
+    {
+      "id": 42,
+      "name": "Golbat",
+      "type": [
+        "Poison",
+        "Flying"
+      ],
+      "baseExperience": 159,
+      "height": 1.6,
+      "weight": 55,
+      "abilities": [
+        "Inner Focus"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 80,
+        "defense": 70,
+        "speed": 90,
+        "specialAttack": 75,
+        "specialDefense": 65
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/42.svg"
+    },
+    {
+      "id": 43,
+      "name": "Oddish",
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "baseExperience": 64,
+      "height": 0.5,
+      "weight": 5.4,
+      "abilities": [
+        "Chlorophyll"
+      ],
+      "stats": {
+        "hp": 45,
+        "attack": 50,
+        "defense": 55,
+        "speed": 30,
+        "specialAttack": 65,
+        "specialDefense": 50
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/43.svg"
+    },
+    {
+      "id": 44,
+      "name": "Gloom",
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "baseExperience": 138,
+      "height": 0.8,
+      "weight": 8.6,
+      "abilities": [
+        "Chlorophyll"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 65,
+        "defense": 70,
+        "speed": 40,
+        "specialAttack": 75,
+        "specialDefense": 65
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/44.svg"
+    },
+    {
+      "id": 45,
+      "name": "Vileplume",
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "baseExperience": 221,
+      "height": 1.2,
+      "weight": 18.6,
+      "abilities": [
+        "Chlorophyll"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 80,
+        "defense": 85,
+        "speed": 50,
+        "specialAttack": 90,
+        "specialDefense": 75
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/45.svg"
+    },
+    {
+      "id": 46,
+      "name": "Paras",
+      "type": [
+        "Bug",
+        "Grass"
+      ],
+      "baseExperience": 57,
+      "height": 0.3,
+      "weight": 5.4,
+      "abilities": [
+        "Effect Spore"
+      ],
+      "stats": {
+        "hp": 35,
+        "attack": 70,
+        "defense": 55,
+        "speed": 25,
+        "specialAttack": 45,
+        "specialDefense": 55
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/46.svg"
+    },
+    {
+      "id": 47,
+      "name": "Parasect",
+      "type": [
+        "Bug",
+        "Grass"
+      ],
+      "baseExperience": 142,
+      "height": 1,
+      "weight": 29.5,
+      "abilities": [
+        "Effect Spore"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 95,
+        "defense": 80,
+        "speed": 30,
+        "specialAttack": 60,
+        "specialDefense": 80
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/47.svg"
+    },
+    {
+      "id": 48,
+      "name": "Venonat",
+      "type": [
+        "Bug",
+        "Poison"
+      ],
+      "baseExperience": 61,
+      "height": 1,
+      "weight": 30,
+      "abilities": [
+        "Compound Eyes"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 55,
+        "defense": 50,
+        "speed": 45,
+        "specialAttack": 55,
+        "specialDefense": 50
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/48.svg"
+    },
+    {
+      "id": 49,
+      "name": "Venomoth",
+      "type": [
+        "Bug",
+        "Poison"
+      ],
+      "baseExperience": 158,
+      "height": 1.5,
+      "weight": 12.5,
+      "abilities": [
+        "Shield Dust"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 65,
+        "defense": 60,
+        "speed": 90,
+        "specialAttack": 90,
+        "specialDefense": 75
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/49.svg"
+    },
+    {
+      "id": 50,
+      "name": "Diglett",
+      "type": [
+        "Ground"
+      ],
+      "baseExperience": 53,
+      "height": 0.2,
+      "weight": 0.8,
+      "abilities": [
+        "Sand Veil"
+      ],
+      "stats": {
+        "hp": 10,
+        "attack": 55,
+        "defense": 25,
+        "speed": 95,
+        "specialAttack": 35,
+        "specialDefense": 45
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/50.svg"
+    },
+    {
+      "id": 51,
+      "name": "Dugtrio",
+      "type": [
+        "Ground"
+      ],
+      "baseExperience": 149,
+      "height": 0.7,
+      "weight": 33.3,
+      "abilities": [
+        "Sand Veil"
+      ],
+      "stats": {
+        "hp": 35,
+        "attack": 100,
+        "defense": 50,
+        "speed": 120,
+        "specialAttack": 50,
+        "specialDefense": 70
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/51.svg"
+    },
+    {
+      "id": 52,
+      "name": "Meowth",
+      "type": [
+        "Normal"
+      ],
+      "baseExperience": 58,
+      "height": 0.4,
+      "weight": 4.2,
+      "abilities": [
+        "Pickup"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 35,
+        "speed": 90,
+        "specialAttack": 40,
+        "specialDefense": 40
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/52.svg"
+    },
+    {
+      "id": 53,
+      "name": "Persian",
+      "type": [
+        "Normal"
+      ],
+      "baseExperience": 154,
+      "height": 1,
+      "weight": 32,
+      "abilities": [
+        "Limber"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 70,
+        "defense": 60,
+        "speed": 115,
+        "specialAttack": 65,
+        "specialDefense": 65
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/53.svg"
+    },
+    {
+      "id": 54,
+      "name": "Psyduck",
+      "type": [
+        "Water"
+      ],
+      "baseExperience": 64,
+      "height": 0.8,
+      "weight": 19.6,
+      "abilities": [
+        "Damp"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 52,
+        "defense": 48,
+        "speed": 55,
+        "specialAttack": 65,
+        "specialDefense": 50
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/54.svg"
+    },
+    {
+      "id": 55,
+      "name": "Golduck",
+      "type": [
+        "Water"
+      ],
+      "baseExperience": 175,
+      "height": 1.7,
+      "weight": 76.6,
+      "abilities": [
+        "Damp"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 82,
+        "defense": 78,
+        "speed": 85,
+        "specialAttack": 95,
+        "specialDefense": 80
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/55.svg"
+    },
+    {
+      "id": 56,
+      "name": "Mankey",
+      "type": [
+        "Fighting"
+      ],
+      "baseExperience": 61,
+      "height": 0.5,
+      "weight": 28,
+      "abilities": [
+        "Vital Spirit"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 80,
+        "defense": 35,
+        "speed": 70,
+        "specialAttack": 35,
+        "specialDefense": 45
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/56.svg"
+    },
+    {
+      "id": 57,
+      "name": "Primeape",
+      "type": [
+        "Fighting"
+      ],
+      "baseExperience": 159,
+      "height": 1,
+      "weight": 32,
+      "abilities": [
+        "Vital Spirit"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 105,
+        "defense": 60,
+        "speed": 95,
+        "specialAttack": 60,
+        "specialDefense": 70
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/57.svg"
+    },
+    {
+      "id": 58,
+      "name": "Growlithe",
+      "type": [
+        "Fire"
+      ],
+      "baseExperience": 70,
+      "height": 0.7,
+      "weight": 19,
+      "abilities": [
+        "Intimidate"
+      ],
+      "stats": {
+        "hp": 55,
+        "attack": 70,
+        "defense": 45,
+        "speed": 60,
+        "specialAttack": 70,
+        "specialDefense": 50
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/58.svg"
+    },
+    {
+      "id": 59,
+      "name": "Arcanine",
+      "type": [
+        "Fire"
+      ],
+      "baseExperience": 194,
+      "height": 1.9,
+      "weight": 155,
+      "abilities": [
+        "Intimidate"
+      ],
+      "stats": {
+        "hp": 90,
+        "attack": 110,
+        "defense": 80,
+        "speed": 95,
+        "specialAttack": 100,
+        "specialDefense": 80
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/59.svg"
+    },
+    {
+      "id": 60,
+      "name": "Poliwag",
+      "type": [
+        "Water"
+      ],
+      "baseExperience": 60,
+      "height": 0.6,
+      "weight": 12.4,
+      "abilities": [
+        "Water Absorb"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 50,
+        "defense": 40,
+        "speed": 90,
+        "specialAttack": 50,
+        "specialDefense": 40
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/60.svg"
+    },
+    {
+      "id": 61,
+      "name": "Poliwhirl",
+      "type": [
+        "Water"
+      ],
+      "baseExperience": 135,
+      "height": 1,
+      "weight": 20,
+      "abilities": [
+        "Water Absorb"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 65,
+        "defense": 65,
+        "speed": 90,
+        "specialAttack": 65,
+        "specialDefense": 50
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/61.svg"
+    },
+    {
+      "id": 62,
+      "name": "Poliwrath",
+      "type": [
+        "Water",
+        "Fighting"
+      ],
+      "baseExperience": 230,
+      "height": 1.3,
+      "weight": 54,
+      "abilities": [
+        "Water Absorb"
+      ],
+      "stats": {
+        "hp": 90,
+        "attack": 95,
+        "defense": 95,
+        "speed": 70,
+        "specialAttack": 70,
+        "specialDefense": 90
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/62.svg"
+    },
+    {
+      "id": 63,
+      "name": "Abra",
+      "type": [
+        "Psychic"
+      ],
+      "baseExperience": 62,
+      "height": 0.9,
+      "weight": 19.5,
+      "abilities": [
+        "Synchronize"
+      ],
+      "stats": {
+        "hp": 25,
+        "attack": 20,
+        "defense": 15,
+        "speed": 90,
+        "specialAttack": 105,
+        "specialDefense": 55
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/63.svg"
+    },
+    {
+      "id": 64,
+      "name": "Kadabra",
+      "type": [
+        "Psychic"
+      ],
+      "baseExperience": 140,
+      "height": 1.3,
+      "weight": 56.5,
+      "abilities": [
+        "Synchronize"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 35,
+        "defense": 30,
+        "speed": 105,
+        "specialAttack": 120,
+        "specialDefense": 70
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/64.svg"
+    },
+    {
+      "id": 65,
+      "name": "Alakazam",
+      "type": [
+        "Psychic"
+      ],
+      "baseExperience": 225,
+      "height": 1.5,
+      "weight": 48,
+      "abilities": [
+        "Synchronize"
+      ],
+      "stats": {
+        "hp": 55,
+        "attack": 50,
+        "defense": 45,
+        "speed": 120,
+        "specialAttack": 135,
+        "specialDefense": 85
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/65.svg"
+    },
+    {
+      "id": 66,
+      "name": "Machop",
+      "type": [
+        "Fighting"
+      ],
+      "baseExperience": 61,
+      "height": 0.8,
+      "weight": 19.5,
+      "abilities": [
+        "Guts"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 80,
+        "defense": 50,
+        "speed": 35,
+        "specialAttack": 35,
+        "specialDefense": 35
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/66.svg"
+    },
+    {
+      "id": 67,
+      "name": "Machoke",
+      "type": [
+        "Fighting"
+      ],
+      "baseExperience": 142,
+      "height": 1.5,
+      "weight": 70.5,
+      "abilities": [
+        "Guts"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 100,
+        "defense": 70,
+        "speed": 45,
+        "specialAttack": 50,
+        "specialDefense": 60
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/67.svg"
+    },
+    {
+      "id": 68,
+      "name": "Machamp",
+      "type": [
+        "Fighting"
+      ],
+      "baseExperience": 227,
+      "height": 1.6,
+      "weight": 130,
+      "abilities": [
+        "Guts"
+      ],
+      "stats": {
+        "hp": 90,
+        "attack": 130,
+        "defense": 80,
+        "speed": 55,
+        "specialAttack": 65,
+        "specialDefense": 85
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/68.svg"
+    },
+    {
+      "id": 69,
+      "name": "Bellsprout",
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "baseExperience": 60,
+      "height": 0.7,
+      "weight": 4,
+      "abilities": [
+        "Chlorophyll"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 75,
+        "defense": 35,
+        "speed": 40,
+        "specialAttack": 70,
+        "specialDefense": 30
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/69.svg"
+    },
+    {
+      "id": 70,
+      "name": "Weepinbell",
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "baseExperience": 137,
+      "height": 1,
+      "weight": 6.4,
+      "abilities": [
+        "Chlorophyll"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 90,
+        "defense": 50,
+        "speed": 55,
+        "specialAttack": 85,
+        "specialDefense": 45
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/70.svg"
+    },
+    {
+      "id": 71,
+      "name": "Victreebel",
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "baseExperience": 221,
+      "height": 1.7,
+      "weight": 15.5,
+      "abilities": [
+        "Chlorophyll"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 105,
+        "defense": 65,
+        "speed": 70,
+        "specialAttack": 100,
+        "specialDefense": 60
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/71.svg"
+    },
+    {
+      "id": 72,
+      "name": "Tentacool",
+      "type": [
+        "Water",
+        "Poison"
+      ],
+      "baseExperience": 67,
+      "height": 0.9,
+      "weight": 45.5,
+      "abilities": [
+        "Clear Body"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 40,
+        "defense": 35,
+        "speed": 70,
+        "specialAttack": 50,
+        "specialDefense": 100
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/72.svg"
+    },
+    {
+      "id": 73,
+      "name": "Tentacruel",
+      "type": [
+        "Water",
+        "Poison"
+      ],
+      "baseExperience": 180,
+      "height": 1.6,
+      "weight": 55,
+      "abilities": [
+        "Clear Body"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 70,
+        "defense": 65,
+        "speed": 100,
+        "specialAttack": 80,
+        "specialDefense": 120
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/73.svg"
+    },
+    {
+      "id": 74,
+      "name": "Geodude",
+      "type": [
+        "Rock",
+        "Ground"
+      ],
+      "baseExperience": 73,
+      "height": 0.4,
+      "weight": 20,
+      "abilities": [
+        "Rock Head"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 80,
+        "defense": 100,
+        "speed": 20,
+        "specialAttack": 30,
+        "specialDefense": 30
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/74.svg"
+    },
+    {
+      "id": 75,
+      "name": "Graveler",
+      "type": [
+        "Rock",
+        "Ground"
+      ],
+      "baseExperience": 151,
+      "height": 1,
+      "weight": 105,
+      "abilities": [
+        "Rock Head"
+      ],
+      "stats": {
+        "hp": 55,
+        "attack": 95,
+        "defense": 115,
+        "speed": 35,
+        "specialAttack": 45,
+        "specialDefense": 45
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/75.svg"
+    },
+    {
+      "id": 76,
+      "name": "Golem",
+      "type": [
+        "Rock",
+        "Ground"
+      ],
+      "baseExperience": 223,
+      "height": 1.4,
+      "weight": 300,
+      "abilities": [
+        "Rock Head"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 120,
+        "defense": 130,
+        "speed": 45,
+        "specialAttack": 55,
+        "specialDefense": 65
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/76.svg"
+    },
+    {
+      "id": 77,
+      "name": "Ponyta",
+      "type": [
+        "Fire"
+      ],
+      "baseExperience": 152,
+      "height": 1,
+      "weight": 30,
+      "abilities": [
+        "Run Away"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 85,
+        "defense": 55,
+        "speed": 90,
+        "specialAttack": 65,
+        "specialDefense": 65
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/77.svg"
+    },
+    {
+      "id": 78,
+      "name": "Rapidash",
+      "type": [
+        "Fire"
+      ],
+      "baseExperience": 192,
+      "height": 1.7,
+      "weight": 95,
+      "abilities": [
+        "Run Away"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 100,
+        "defense": 70,
+        "speed": 105,
+        "specialAttack": 80,
+        "specialDefense": 80
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/78.svg"
+    },
+    {
+      "id": 79,
+      "name": "Slowpoke",
+      "type": [
+        "Water",
+        "Psychic"
+      ],
+      "baseExperience": 99,
+      "height": 1.2,
+      "weight": 36,
+      "abilities": [
+        "Oblivious"
+      ],
+      "stats": {
+        "hp": 90,
+        "attack": 65,
+        "defense": 65,
+        "speed": 15,
+        "specialAttack": 40,
+        "specialDefense": 40
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/79.svg"
+    },
+    {
+      "id": 80,
+      "name": "Slowbro",
+      "type": [
+        "Water",
+        "Psychic"
+      ],
+      "baseExperience": 164,
+      "height": 1.6,
+      "weight": 78.5,
+      "abilities": [
+        "Oblivious"
+      ],
+      "stats": {
+        "hp": 95,
+        "attack": 75,
+        "defense": 110,
+        "speed": 30,
+        "specialAttack": 100,
+        "specialDefense": 80
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/80.svg"
+    },
+    {
+      "id": 81,
+      "name": "Magnemite",
+      "type": [
+        "Electric",
+        "Steel"
+      ],
+      "baseExperience": 65,
+      "height": 0.3,
+      "weight": 6,
+      "abilities": [
+        "Magnet Pull"
+      ],
+      "stats": {
+        "hp": 25,
+        "attack": 35,
+        "defense": 70,
+        "speed": 45,
+        "specialAttack": 95,
+        "specialDefense": 55
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/81.svg"
+    },
+    {
+      "id": 82,
+      "name": "Magneton",
+      "type": [
+        "Electric",
+        "Steel"
+      ],
+      "baseExperience": 163,
+      "height": 1,
+      "weight": 60,
+      "abilities": [
+        "Magnet Pull"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 60,
+        "defense": 95,
+        "speed": 70,
+        "specialAttack": 120,
+        "specialDefense": 70
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/82.svg"
+    },
+    {
+      "id": 83,
+      "name": "Farfetch'd",
+      "type": [
+        "Normal",
+        "Flying"
+      ],
+      "baseExperience": 123,
+      "height": 0.8,
+      "weight": 15,
+      "abilities": [
+        "Keen Eye"
+      ],
+      "stats": {
+        "hp": 52,
+        "attack": 65,
+        "defense": 55,
+        "speed": 60,
+        "specialAttack": 58,
+        "specialDefense": 62
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/83.svg"
+    },
+    {
+      "id": 84,
+      "name": "Doduo",
+      "type": [
+        "Normal",
+        "Flying"
+      ],
+      "baseExperience": 96,
+      "height": 1.4,
+      "weight": 39.2,
+      "abilities": [
+        "Run Away"
+      ],
+      "stats": {
+        "hp": 35,
+        "attack": 85,
+        "defense": 45,
+        "speed": 75,
+        "specialAttack": 35,
+        "specialDefense": 35
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/84.svg"
+    },
+    {
+      "id": 85,
+      "name": "Dodrio",
+      "type": [
+        "Normal",
+        "Flying"
+      ],
+      "baseExperience": 158,
+      "height": 1.8,
+      "weight": 85.2,
+      "abilities": [
+        "Run Away"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 110,
+        "defense": 70,
+        "speed": 100,
+        "specialAttack": 60,
+        "specialDefense": 60
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/85.svg"
+    },
+    {
+      "id": 86,
+      "name": "Seel",
+      "type": [
+        "Water"
+      ],
+      "baseExperience": 100,
+      "height": 1.1,
+      "weight": 90,
+      "abilities": [
+        "Thick Fat"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 45,
+        "defense": 55,
+        "speed": 45,
+        "specialAttack": 45,
+        "specialDefense": 55
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/86.svg"
+    },
+    {
+      "id": 87,
+      "name": "Dewgong",
+      " type": [
+        "Water",
+        "Ice"
+      ],
+      "baseExperience": 176,
+      "height": 1.7,
+      "weight": 120,
+      "abilities": [
+        "Thick Fat"
+      ],
+      "stats": {
+        "hp": 90,
+        "attack": 70,
+        "defense": 80,
+        "speed": 70,
+        "specialAttack": 70,
+        "specialDefense": 95
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/87.svg"
+    },
+    {
+      "id": 88,
+      "name": "Grimer",
+      "type": [
+        "Poison"
+      ],
+      "baseExperience": 90,
+      "height": 0.9,
+      "weight": 30,
+      "abilities": [
+        "Stench"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 80,
+        "defense": 50,
+        "speed": 25,
+        "specialAttack": 40,
+        "specialDefense": 50
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/88.svg"
+    },
+    {
+      "id": 89,
+      "name": "Muk",
+      "type": [
+        "Poison"
+      ],
+      "baseExperience": 157,
+      "height": 1.2,
+      "weight": 30,
+      "abilities": [
+        "Stench"
+      ],
+      "stats": {
+        "hp": 105,
+        "attack": 105,
+        "defense": 75,
+        "speed": 50,
+        "specialAttack": 65,
+        "specialDefense": 75
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/89.svg"
+    },
+    {
+      "id": 90,
+      "name": "Shellder",
+      "type": [
+        "Water"
+      ],
+      "baseExperience": 97,
+      "height": 0.3,
+      "weight": 4,
+      "abilities": [
+        "Shell Armor"
+      ],
+      "stats": {
+        "hp": 30,
+        "attack": 65,
+        "defense": 100,
+        "speed": 40,
+        "specialAttack": 45,
+        "specialDefense": 25
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/90.svg"
+    },
+    {
+      "id": 91,
+      "name": "Cloyster",
+      "type": [
+        "Water",
+        "Ice"
+      ],
+      "baseExperience": 203,
+      "height": 1.5,
+      "weight": 132.5,
+      "abilities": [
+        "Shell Armor"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 95,
+        "defense": 180,
+        "speed": 70,
+        "specialAttack": 85,
+        "specialDefense": 45
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/91.svg"
+    },
+    {
+      "id": 92,
+      "name": "Gastly",
+      "type": [
+        "Ghost",
+        "Poison"
+      ],
+      "baseExperience": 95,
+      "height": 1.3,
+      "weight": 0.1,
+      "abilities": [
+        "Levitate"
+      ],
+      "stats": {
+        "hp": 30,
+        "attack": 35,
+        "defense": 30,
+        "speed": 80,
+        "specialAttack": 100,
+        "specialDefense": 60
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/92.svg"
+    },
+    {
+      "id": 93,
+      "name": "Haunter",
+      "type": [
+        "Ghost",
+        "Poison"
+      ],
+      "baseExperience": 126,
+      "height": 1.6,
+      "weight": 0.1,
+      "abilities": [
+        "Levitate"
+      ],
+      "stats": {
+        "hp": 45,
+        "attack": 50,
+        "defense": 45,
+        "speed": 95,
+        "specialAttack": 115,
+        "specialDefense": 55
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/93.svg"
+    },
+    {
+      "id": 94,
+      "name": "Gengar",
+      "type": [
+        "Ghost",
+        "Poison"
+      ],
+      "baseExperience": 225,
+      "height": 1.5,
+      "weight": 40.5,
+      "abilities": [
+        "Levitate"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 65,
+        "defense": 60,
+        "speed": 110,
+        "specialAttack": 130,
+        "specialDefense": 70
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/94.svg"
+    },
+    {
+      "id": 95,
+      "name": "Onix",
+      "type": [
+        "Rock",
+        "Ground"
+      ],
+      "baseExperience": 77,
+      "height": 8.8,
+      "weight": 210,
+      "abilities": [
+        "Rock Head"
+      ],
+      "stats": {
+        "hp": 35,
+        "attack": 45,
+        "defense": 160,
+        "speed": 70,
+        "specialAttack": 45,
+        "specialDefense": 55
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/95.svg"
+    },
+    {
+      "id": 96,
+      "name": "Drowzee",
+      "type": [
+        "Psychic"
+      ],
+      "baseExperience": 102,
+      "height": 1,
+      "weight": 32.4,
+      "abilities": [
+        "Insomnia"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 48,
+        "defense": 45,
+        "speed": 42,
+        "specialAttack": 65,
+        "specialDefense": 75
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/96.svg"
+    },
+    {
+      "id": 97,
+      "name": "Hypno",
+      "type": [
+        "Psychic"
+      ],
+      "baseExperience": 165,
+      "height": 1.6,
+      "weight": 75.6,
+      "abilities": [
+        "Insomnia"
+      ],
+      "stats": {
+        "hp": 85,
+        "attack": 73,
+        "defense": 70,
+        "speed": 67,
+        "specialAttack": 95,
+        "specialDefense": 85
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/97.svg"
+    },
+    {
+      "id": 98,
+      "name": "Krabby",
+      "type": [
+        "Water"
+      ],
+      "baseExperience": 115,
+      "height": 0.4,
+      "weight": 6.5,
+      "abilities": [
+        "Hyper Cutter"
+      ],
+      "stats": {
+        "hp": 30,
+        "attack": 105,
+        "defense": 90,
+        "speed": 50,
+        "specialAttack": 50,
+        "specialDefense": 30
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/98.svg"
+    },
+    {
+      "id": 99,
+      "name": "Kingler",
+      "type": [
+        "Water"
+      ],
+      "baseExperience": 206,
+      "height": 1.3,
+      "weight": 60,
+      "abilities": [
+        "Hyper Cutter"
+      ],
+      "stats": {
+        "hp": 55,
+        "attack": 130,
+        "defense": 115,
+        "speed": 75,
+        "specialAttack": 75,
+        "specialDefense": 65
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/99.svg"
+    },
+    {
+      "id": 100,
+      "name": "Voltorb",
+      "type": [
+        "Electric"
+      ],
+      "baseExperience": 103,
+      "height": 0.5,
+      "weight": 10.4,
+      "abilities": [
+        "Soundproof"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 30,
+        "defense": 50,
+        "speed": 100,
+        "specialAttack": 55,
+        "specialDefense": 75
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/100.svg"
+    },
+    {
+      "id": 101,
+      "name": "Electrode",
+      "type": [
+        "Electric"
+      ],
+      "baseExperience": 150,
+      "height": 1.2,
+      "weight": 66.6,
+      "abilities": [
+        "Soundproof"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 50,
+        "defense": 70,
+        "speed": 140,
+        "specialAttack": 80,
+        "specialDefense": 90
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/101.svg"
+    },
+    {
+      "id": 102,
+      "name": "Exeggcute",
+      "type": [
+        "Grass",
+        "Psychic"
+      ],
+      "baseExperience": 65,
+      "height": 0.4,
+      "weight": 2.5,
+      "abilities": [
+        "Chlorophyll"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 40,
+        "defense": 80,
+        "speed": 40,
+        "specialAttack": 40,
+        "specialDefense": 60
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/102.svg"
+    },
+    {
+      "id": 103,
+      "name": "Exeggutor",
+      "type": [
+        "Grass",
+        "Psychic"
+      ],
+      "baseExperience": 186,
+      "height": 2,
+      "weight": 120,
+      "abilities": [
+        "Chlorophyll"
+      ],
+      "stats": {
+        "hp": 95,
+        "attack": 95,
+        "defense": 85,
+        "speed": 55,
+        "specialAttack": 125,
+        "specialDefense": 85
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/103.svg"
+    },
+    {
+      "id": 104,
+      "name": "Cubone",
+      "type": [
+        "Ground"
+      ],
+      "baseExperience": 64,
+      "height": 0.4,
+      "weight": 6.5,
+      "abilities": [
+        "Rock Head"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 50,
+        "defense": 95,
+        "speed": 35,
+        "specialAttack": 40,
+        "specialDefense": 60
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/104.svg"
+    },
+    {
+      "id": 105,
+      "name": "Marowak",
+      "type": [
+        "Ground"
+      ],
+      "baseExperience": 149,
+      "height": 1,
+      "weight": 45,
+      "abilities": [
+        "Rock Head"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 80,
+        "defense": 110,
+        "speed": 45,
+        "specialAttack": 50,
+        "specialDefense": 80
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/105.svg"
+    },
+    {
+      "id": 106,
+      "name": "Hitmonlee",
+      "type": [
+        "Fighting"
+      ],
+      "baseExperience": 159,
+      "height": 1.5,
+      "weight": 49.8,
+      "abilities": [
+        "Limber"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 120,
+        "defense": 53,
+        "speed": 87,
+        "specialAttack": 35,
+        "specialDefense": 110
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/106.svg"
+    },
+    {
+      "id": 107,
+      "name": "Hitmonchan",
+      "type": [
+        "Fighting"
+      ],
+      "baseExperience": 159,
+      "height": 1.4,
+      "weight": 50.2,
+      "abilities": [
+        "Keen Eye"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 105,
+        "defense": 79,
+        "speed": 76,
+        "specialAttack": 40,
+        "specialDefense": 70
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/107.svg"
+    },
+    {
+      "id": 108,
+      "name": "Lickitung",
+      "type": [
+        "Normal"
+      ],
+      "baseExperience": 77,
+      "height": 1.2,
+      "weight": 65.5,
+      "abilities": [
+        "Own Tempo"
+      ],
+      "stats": {
+        "hp": 90,
+        "attack": 55,
+        "defense": 75,
+        "speed": 30,
+        "specialAttack": 60,
+        "specialDefense": 75
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/108.svg"
+    },
+    {
+      "id": 109,
+      "name": "Koffing",
+      "type": [
+        "Poison"
+      ],
+      "baseExperience": 114,
+      "height": 0.6,
+      "weight": 1,
+      "abilities": [
+        "Levitate"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 65,
+        "defense": 95,
+        "speed": 35,
+        "specialAttack": 60,
+        "specialDefense": 85
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/109.svg"
+    },
+    {
+      "id": 110,
+      "name": "Weezing",
+      "type": [
+        "Poison"
+      ],
+      "baseExperience": 173,
+      "height": 1.2,
+      "weight": 9.5,
+      "abilities": [
+        "Levitate"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 90,
+        "defense": 120,
+        "speed": 60,
+        "specialAttack": 85,
+        "specialDefense": 105
+      },
+      "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/110.svg"
+    }
+  ]
