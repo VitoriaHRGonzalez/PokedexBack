@@ -25,8 +25,8 @@ export class CreatePokemonDto {
     @ApiProperty()
     readonly abilities: string[]; //o abilities é um array, porque há mais de uma habilidade
 
-    @ApiProperty()
-    readonly image: string;
+    // @ApiProperty()
+    // readonly image: string;
 
     @ApiProperty({type: StatsDto})
     readonly stats: StatsDto;

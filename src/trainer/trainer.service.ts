@@ -1,6 +1,6 @@
 /* eslint-disable prettier/prettier */
 import { BadRequestException, Injectable, NotFoundException } from "@nestjs/common";
-import { PokemonRepository } from "src/pokemon/repository/pokemon.repository";
+import { PokemonRepository } from "../pokemon/repository/pokemon.repository";
 import { CreateTrainerDto } from "./dto/create-trainer.dto";
 import { TrainerDto } from "./dto/trainer.dto";
 import { UpdateTrainerDto } from "./dto/update-trainer.dto";
@@ -31,7 +31,6 @@ export class TrainerService {
     if (isNaN(Number(id))) {
       throw new BadRequestException(`Invalid ID format: ${id}`);
     }
-
     const trainer = await this.trainerRepository.get(Number(id));
     if (!trainer) {
       throw new NotFoundException(`Trainer with ID ${id} not found`);
@@ -42,6 +41,8 @@ export class TrainerService {
     console.log(pokemons);
     return new TrainerDto(trainer.id, trainer.name, pokemons, trainer.imageUrl);
   }
+  // Fazer Unit Test.
+  // Teste de automação.
 
   async create(createTrainerDto: CreateTrainerDto): Promise<Trainer> {
     return this.trainerRepository.add(createTrainerDto);

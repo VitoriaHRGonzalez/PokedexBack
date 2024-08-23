@@ -14,5 +14,5 @@ export const PokemonSchema = new Schema({
     defense: Number,
     speed: Number,
   },
-  image: String,
+  // image: String,
 });

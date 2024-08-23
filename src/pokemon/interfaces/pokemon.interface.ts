@@ -7,7 +7,7 @@ export interface Pokemon {
     height: number;
     weight: number;
     abilities: string[];
-    image?: string;
+    // image?: string;
     stats: {
         hp:number;
         attack: number;
@@ -24,7 +24,7 @@ export interface PokemonDocument extends Document {
     height: number;
     weight: number;
     abilities: string[];
-    image?: string;
+    // image?: string;
     stats: {
       hp: number;
       attack: number;
