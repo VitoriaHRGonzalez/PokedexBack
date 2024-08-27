@@ -2,14 +2,14 @@
     "version": 2,
     "builds": [
       {
-        "src": "src/main.ts",
-        "use": "@vercel/node"
+        "src": "package.json",
+        "use": "vercel-sapper"
       }
     ],
     "routes": [
       {
         "src": "/(.*)",
-        "dest": "src/main.ts",
+        "dest": "main.ts",
         "methods": [
           "GET",
           "POST",
@@ -17,10 +17,5 @@
           "DELETE"
         ]
       }
-    ],
-    "env": {
-      "MONGODB_URI": "@mongodb_uri",
-      "API_KEY": "@api_key"
-    }
+    ]
   }
-  
