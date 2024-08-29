@@ -1,8 +1,8 @@
 {
   "name": "pokedexback",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "<p align=\"center\">\r   <a href=\"http://nestjs.com/\" target=\"blank\"><img src=\"https://nestjs.com/img/logo-small.svg\" width=\"200\" alt=\"Nest Logo\" /></a>\r </p>",
+  "author": "Vitoria",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
@@ -73,5 +73,13 @@
     "preset": "ts-jest",
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
+  },
+  "main": ".eslintrc.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/VitoriaHRGonzalez/PokedexBack.git)"
   }
 }
