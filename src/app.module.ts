@@ -11,7 +11,7 @@ console.log('MongoDB URI:', process.env.MONGODB_URI); // Adiciona o console.log 
 @Module({
   imports: [PokemonModule, TrainerModule,
     ConfigModule.forRoot(), // Carrega variáveis de ambiente do arquivo .env
-    MongooseModule.forRoot(process.env.MONGODB_URI || 'mongodb://localhost:27017/PokedexDB'),
+    MongooseModule.forRoot(process.env.MONGODB_URI || 'mongodb://localhost:27017/PokedexDB?directConnection=true'),
   ],
   controllers: [],
   providers: [],
