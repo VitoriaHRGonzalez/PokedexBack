@@ -14,6 +14,3 @@ console.log('MongoDB URI:', process.env.MONGODB_URI); // Adiciona o console.log 
 })
 
 export class AppModule {}
-
-
-
