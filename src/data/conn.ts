@@ -11,7 +11,8 @@
 //   .catch((err) => console.error('Could not connect to MongoDB', err));
 
 const mongoose = require('mongoose');
-const mongoUri = process.env.MONGODB_URI; // Pegue a URL do MongoDB das variáveis de ambiente
+const mongoUri =
+  process.env.MONGODB_URI || 'mongodb://localhost:27017/PokedexDB'; // Pegue a URL do MongoDB das variáveis de ambiente
 
 mongoose
   .connect(mongoUri, {
