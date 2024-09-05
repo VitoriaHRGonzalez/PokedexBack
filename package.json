@@ -26,6 +26,7 @@
     "@nestjs/mongoose": "^10.0.10",
     "@nestjs/platform-express": "^10.0.0",
     "@nestjs/swagger": "^7.3.1",
+    "dotenv": "^16.4.5",
     "mongodb": "^6.8.0",
     "mongoose": "^8.5.1",
     "pokedexback": "file:",
