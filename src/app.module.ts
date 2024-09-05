@@ -5,7 +5,7 @@ import { PokemonModule } from './pokemon/pokemon.module';
 import { TrainerModule } from './trainer/trainer.module';
 
 @Module({
-  imports: [PokemonModule, TrainerModule, MongooseModule.forRoot('mongodb+srv://vitoriagonzalez:p0CmCvoHROLcwQvB@cluster0.dkbwg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0')],
+  imports: [PokemonModule, TrainerModule, MongooseModule.forRoot(process.env.MONGODB_URI)],
   controllers: [],
   providers: [],
 })
