@@ -7,7 +7,7 @@ import { UpdatePokemonDto } from './dto/update-pokemon.dto';
 import { PokemonService } from './pokemon.service';
 
 
-@ApiTags('pokemon') //O decorator @ApiTags é utilizado para adicionar tags a documentação gerada pelo Swagger. 
+@ApiTags('pokemon') //O decorator @ApiTags é utilizado para adicionar tags a documentação gerada pelo Swagger.
 @Controller('pokemon')
 
 export class PokemonController{

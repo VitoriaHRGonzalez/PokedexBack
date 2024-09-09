@@ -8,6 +8,8 @@ async function bootstrap() {
   const app = await NestFactory.create(AppModule);
   app.setGlobalPrefix('api');
 
+  const uri = process.env.MONGODB_URI;
+
   const config = new DocumentBuilder()
     .setTitle('Pokemon API')
     .setVersion('1.0')
@@ -21,6 +23,6 @@ async function bootstrap() {
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
     credentials: true,
   });
-  await app.listen(process.env.PORT || 8080);
+  await app.listen(process.env.PORT || uri);
 }
 bootstrap();
