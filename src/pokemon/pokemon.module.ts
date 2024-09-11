@@ -8,7 +8,7 @@ import { PokemonRepository } from './repository/pokemon.repository';
 
 @Module({
   imports: [
-    MongooseModule.forFeature([{ name: 'pokedexpokemons', schema: PokemonSchema }]),
+    MongooseModule.forFeature([{ name: 'PokedexPokemons', schema: PokemonSchema }]),
   ],
   controllers: [PokemonController],
   providers: [PokemonService, PokemonRepository],

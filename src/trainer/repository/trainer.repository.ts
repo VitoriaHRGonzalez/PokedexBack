@@ -8,7 +8,7 @@ import { Trainer, TrainerDocument } from '../interfaces/trainer.interface';
 @Injectable()
 export class TrainerRepository {
   constructor(
-    @InjectModel('pokedextrainers')
+    @InjectModel('PokedexTrainers')
     private readonly trainerModel: Model<TrainerDocument>,
   ) {}
 

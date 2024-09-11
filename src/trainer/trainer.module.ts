@@ -9,7 +9,7 @@ import { TrainerSchema } from "./trainer.schema";
 import { TrainerService } from "./trainer.service";
 
 @Module({
-    imports: [PokemonModule, MongooseModule.forFeature([{ name: 'pokedextrainers', schema: TrainerSchema }]),],
+    imports: [PokemonModule, MongooseModule.forFeature([{ name: 'PokedexTrainers', schema: TrainerSchema }]),],
     controllers:[TrainerController],
     providers: [TrainerService, TrainerRepository, PokemonRepository],
 })

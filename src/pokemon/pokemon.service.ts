@@ -9,7 +9,7 @@ import { Pokemon, PokemonDocument } from './interfaces/pokemon.interface';
 @Injectable()
 export class PokemonService {
   constructor(
-    @InjectModel('pokedexpokemons') private readonly pokemonModel: Model<PokemonDocument>
+    @InjectModel('PokedexPokemons') private readonly pokemonModel: Model<PokemonDocument>
   ) {}
 
   async findAll(): Promise<Pokemon[]> {
