@@ -5,6 +5,7 @@
   "author": "Vitoria",
   "private": true,
   "license": "UNLICENSED",
+  "type": "module",
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
@@ -29,7 +30,7 @@
     "@nestjs/swagger": "^7.3.1",
     "dotenv": "^16.4.5",
     "mongodb": "^6.8.0",
-    "mongoose": "^8.5.1",
+    "mongoose": "^8.6.1",
     "pokedexback": "file:",
     "reflect-metadata": "^0.2.0",
     "rxjs": "^7.8.1",
