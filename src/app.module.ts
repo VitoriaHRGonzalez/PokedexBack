@@ -8,7 +8,7 @@ import { TrainerModule } from './trainer/trainer.module';
 @Module({
   imports: [PokemonModule, TrainerModule,
     ConfigModule.forRoot(),
-    MongooseModule.forRoot(process.env.MONGODB_URI),
+    MongooseModule.forRoot('mongodb+srv://vitoriagonzalez:OgwNE2emoWL4aG82@cluster0.qfg5s.mongodb.net/Pokedex?retryWrites=true&w=majority&appName=Cluster0'),
   ],
   controllers: [],
   providers: [],

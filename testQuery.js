@@ -1,7 +1,7 @@
 import { MongoClient } from 'mongodb';
 
 const uri =
-  'mongodb+srv://vitoriagonzalez:OgwNE2emoWL4aG82@cluster0.qfg5s.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'; // Substitua pelo URI de conexão do MongoDB Atlas
+  'mongodb+srv://vitoriagonzalez:OgwNE2emoWL4aG82@cluster0.qfg5s.mongodb.net/Pokedex?retryWrites=true&w=majority&appName=Cluster0'; // Substitua pelo URI de conexão do MongoDB Atlas
 
 async function testQuery() {
   const client = new MongoClient(uri, {
@@ -14,7 +14,7 @@ async function testQuery() {
     console.log('Conexão com MongoDB Atlas estabelecida com sucesso!');
 
     const database = client.db('Pokedex');
-    const collection = database.collection('pokedexpokemons');
+    const collection = database.collection('pokedextrainers');
     const pokemons = await collection.find({}).toArray();
     console.log('Pokémons encontrados:');
     console.log(pokemons);
